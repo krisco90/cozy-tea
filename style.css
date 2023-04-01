@@ -3,6 +3,7 @@ body {
     color: seashell;
     background-color: black;
     font-size: 22px;
+    opacity: 0.9;
 }
 
 .header {
@@ -13,14 +14,22 @@ body {
     border-bottom: 1px solid seashell;
     flex-wrap: wrap;
     align-items: center;
+    position: fixed;
+    width: 100%;
 }
 
 #logo {
-    opacity: 0.9;
     max-height: 50px;
     margin-left: 10px;
 }
 
 ul {
     display: inline-flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+a  {
+    color: seashell;
+    
 }
