@@ -35,3 +35,7 @@ ul {
 a  {
     color: seashell;
 }
+
+#mission {
+    background-image: url(images/img-mission-background.jpeg);
+}
