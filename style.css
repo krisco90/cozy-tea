@@ -12,6 +12,7 @@ body {
     max-height: 69px;
     border-bottom: 1px solid seashell;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 #logo {
