@@ -27,9 +27,9 @@ ul {
     display: inline-flex;
     gap: 10px;
     list-style-type: none;
+    padding-right: 10px;
 }
 
 a  {
     color: seashell;
-    
 }
