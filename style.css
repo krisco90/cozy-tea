@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: seashell;
+    background-color: black;
+    font-size: 22px;
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    max-height: 69px;
+    border-bottom: 1px solid seashell;
+    flex-wrap: wrap;
+}
+
+#logo {
+    opacity: 0.9;
+    max-height: 50px;
+    margin-left: 10px;
+}
+
+ul {
+    display: inline-flex;
+}
