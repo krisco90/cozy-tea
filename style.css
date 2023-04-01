@@ -38,4 +38,5 @@ a  {
 
 #mission {
     background-image: url(images/img-mission-background.jpeg);
+    background-repeat: no-repeat;
 }
