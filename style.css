@@ -75,7 +75,11 @@ h4 {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
+    width: 1000px;
+    align-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 .card img {
@@ -85,4 +89,5 @@ h4 {
 
 .card .txt {
     text-align: center;
+    padding-top: 10px;
 }
