@@ -91,3 +91,14 @@ h4 {
     text-align: center;
     padding-top: 10px;
 }
+
+
+
+#locations {
+    display: flex;
+    gap: 40px;
+    background-image: url(images/img-locations-background.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
