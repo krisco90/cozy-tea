@@ -37,6 +37,7 @@ a  {
     color: seashell;
 }
 
+
 #mission {
     background-image: url(images/img-mission-background.jpeg);
     background-repeat: no-repeat;
@@ -70,5 +71,9 @@ h4 {
 }
 
 
-
+.cards {
+    display: flex;
+    flex-flow: row wrap;
+    
+}
 
