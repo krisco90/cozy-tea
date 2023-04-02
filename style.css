@@ -70,6 +70,9 @@ h4 {
     text-align: center;
 }
 
+#featured {
+    margin-bottom: 100px;
+}
 
 .cards {
     display: flex;
@@ -101,4 +104,28 @@ h4 {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    justify-content: center;
+    height: 500px;
+    width: auto;
+    flex-direction: column;
+    margin: 50 auto;
+    align-items: center;
+    gap: 15px;
+}
+
+.location_header {
+    margin-bottom: 15px;
+}
+
+.locations {
+    display: flex;
+    gap: 40px;
+}
+
+.container {
+    background-color: black;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    opacity: 1;
 }
