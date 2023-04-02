@@ -51,7 +51,7 @@ a  {
     margin: auto;
 }
 
-h2 {
+#mission h2 {
     padding-bottom: 0px;
     padding-top: 10px;
     margin-bottom: 0px;
@@ -60,7 +60,7 @@ h2 {
     text-align: center;
 }
 
-h4 {
+#mission h4 {
     padding-top: 0px;
     padding-bottom: 10px;
     margin-top: 0px;
